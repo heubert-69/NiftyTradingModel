@@ -168,5 +168,3 @@ Voltsy (Heubert-69)
 
 GitHub: @heubert-69
 
-yaml
-Copy code
