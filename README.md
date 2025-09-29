@@ -33,6 +33,7 @@ Statistical Analysis: SciPy, statsmodels
 --- 
 
 ## 🏗️ Project Structure
+```bash
 NiftyTradingModel/
 ├── Visualizations #all the plotting and designs
 ├── app.py # Streamlit app
@@ -40,6 +41,7 @@ NiftyTradingModel/
 ├── xgb_model.pkl # Trained model
 ├── requirements.txt # Dependencies
 └── README.md # Documentation
+```
 ---
 📊 Model Results
 🔹 Confusion Matrix
